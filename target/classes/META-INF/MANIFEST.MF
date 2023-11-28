@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ISHITA
+Build-Jdk: 17.0.6
+Implementation-Title: eureka-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ereka
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/eureka-server
+Created-By: Maven Integration for Eclipse
+
