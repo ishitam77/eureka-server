@@ -13,5 +13,5 @@ public class EurekaServerApp {
 		 SpringApplication.run(EurekaServerApp.class, args);		
 
 	}
-
+//comitted in github
 }
